@@ -50,3 +50,8 @@ głodny
 kanapka
 marchewka
 okno
+nowy
+stary
+brudny
+czysty
+wesoły
