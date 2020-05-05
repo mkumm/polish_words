@@ -55,3 +55,7 @@ stary
 brudny
 czysty
 wesoły
+tramvaj
+kierowca tramwaju
+jeździć
+punktowy
